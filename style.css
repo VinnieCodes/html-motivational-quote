@@ -1,0 +1,19 @@
+* {
+  background-color: black;
+  font-family: 'Libre Baskerville', serif;
+  color: white;
+}
+
+img {
+  border: 5px solid white;
+  width: 70%;
+  border-radius: 1%;
+}
+
+div {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 2%;
+}
+
